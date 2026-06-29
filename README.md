@@ -4,7 +4,7 @@ An AI-powered final-year computer science web application that detects a person'
 
 ---
 
-## 🚀 Key Features
+# Key Features
 
 * **Facial Detection**: Instantly localizes multiple human faces in a frame using OpenCV Haar Cascades.
 * **Inference Pipeline**: Runs separate customized Deep CNNs to predict Gender and Age Group.
@@ -16,7 +16,7 @@ An AI-powered final-year computer science web application that detects a person'
 
 ---
 
-## 📂 Project Structure
+# Project Structure
 
 ```
 Age Gender detection/
@@ -62,7 +62,7 @@ Age Gender detection/
 
 ---
 
-## ⚡ Quickstart Guide
+# Quickstart Guide
 
 ### Option 1: Running with Docker Compose (Recommended)
 
@@ -115,7 +115,7 @@ Make sure you have [Docker and Docker Compose](https://docs.docker.com/get-docke
 
 ---
 
-## 🧠 Model Training Instructions
+# Model Training Instructions
 
 To train models on the real **UTKFace** dataset:
 
